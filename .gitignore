@@ -27,6 +27,7 @@ CMakeLists.txt.user
 *.exe
 *.out
 LocalBrainIntegrationTest
+llm_tests
 
 # IDE files
 .vscode/
